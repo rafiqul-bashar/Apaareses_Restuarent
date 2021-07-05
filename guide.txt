@@ -1,0 +1,10 @@
+*required
+        3 div  
+*       2 section background and pic required
+*       footer
+*       link button 
+*       related texts only
+*       
+*              
+*
+*

@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.container{
+    margin: 0% 2% ;
+}
+
+
+.div2{
+    width: 50vw;
+
+}
+
+.div3{
+    width: 33vw;
+}
+
+.para_text{
+    padding: 20px;
+}
