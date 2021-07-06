@@ -1,6 +1,6 @@
 *required
-        3 div  
-*       2 section background and pic required
+        section with  3 div 
+*       2 section with background and pic required
 *       footer
 *       link button 
 *       related texts only
