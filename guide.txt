@@ -5,6 +5,12 @@
 *       link button 
 *       related texts only
 *       
-*              
-*
-*
+*           font-family: 'Festive', cursive;
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Roboto Condensed', sans-serif;              
+
+*       darkcolor--- #39393a
+        corai ------ #ff8552
+        dark_tezt--- #0a0903    
